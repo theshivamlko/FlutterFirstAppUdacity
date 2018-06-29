@@ -3,7 +3,7 @@
 A Basic Flutter application. Its about basic widgets and click event
 
 
-![alt text](https://github.com/theshivamlko/flutter_exploreIndia/blob/master/ezgif-4-830f48607f.gif)
+![alt text](https://github.com/theshivamlko/FlutterFirstAppUdacity/blob/master/flutter.png)
 
- 
+[## Animation in Flutter](https://github.com/theshivamlko/flutter_exploreIndia)
 
